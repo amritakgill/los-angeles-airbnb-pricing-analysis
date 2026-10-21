@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes Airbnb listing prices in Los Angeles County using March 2025 data from Inside Airbnb. The analysis examines how nightly prices vary by property type, location, and listing characteristics, with a focus on factors relevant to short-term rental investment decisions.
+This project analyzes Airbnb listing prices in Los Angeles County. The analysis examines how nightly prices vary by property type, location, and listing characteristics, with a focus on factors relevant to short-term rental investment decisions.
 
 ## Project Files
 
